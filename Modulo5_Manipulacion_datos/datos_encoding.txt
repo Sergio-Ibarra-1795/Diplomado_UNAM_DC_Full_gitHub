@@ -1,0 +1,4 @@
+nombre	edad	país
+Juan	25	España
+María	30	Francia
+José	28	Brasil
